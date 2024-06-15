@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey im Taha 👋
+
+- I am currenlty working on [Seagull](https://github.com/seagull-app)
+- I know javascript, typescript, React.js, Next.js, Node.js, Express.js, python and more!
+- I am actively learning linux, server management and computer hardware
+- Check out my (portfolio)[https://tahaparacha.netlify.app]!
 
 <!--
 **parachataha/parachataha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
