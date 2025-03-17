@@ -1,6 +1,6 @@
 ## Hey im Taha 👋
 
-- I am currenlty working on [Seagull](https://github.com/seagull-app)
+- I am currenlty working on [Seagull](https://github.com/seagullapp)
 - I know javascript, typescript, React.js, Next.js, Node.js, Express.js, python and more!
 - I am actively learning linux, server management and computer hardware
 - Check out my [portfolio](https://tahaparacha.vercel.app)!
